@@ -1,9 +1,12 @@
 class Test
 {
-
+sdsd
 void main()
 {
-    sjaahbssj
+    sads
+
+    sakls
+
 
 }
 sdbsdbj
