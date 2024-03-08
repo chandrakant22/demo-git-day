@@ -1,6 +1,9 @@
 class Test
 {
 
-
+void main()
+{
     
+}
+
 }
